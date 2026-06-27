@@ -1,0 +1,20 @@
+{
+  "name": "deez-skills",
+  "description": "Derek's collection of Claude Code skills and plugins.",
+  "metadata": {
+    "description": "Derek's collection of Claude Code skills and plugins."
+  },
+  "owner": {
+    "name": "Derek Rousseau",
+    "email": "drousseau99@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "weather-forecast",
+      "source": "./plugins/weather-forecast",
+      "description": "Current weather, hourly and multi-day forecasts, plus active US weather alerts for any location. No API key required.",
+      "category": "productivity",
+      "keywords": ["weather", "forecast", "hourly", "alerts"]
+    }
+  ]
+}

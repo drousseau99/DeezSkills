@@ -1,0 +1,11 @@
+{
+  "name": "weather-forecast",
+  "description": "Current weather, hourly and multi-day forecasts, plus active US weather alerts for any location. No API key required.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Derek Rousseau",
+    "email": "drousseau99@gmail.com"
+  },
+  "keywords": ["weather", "forecast", "hourly", "alerts", "wttr", "nws"],
+  "license": "MIT"
+}
