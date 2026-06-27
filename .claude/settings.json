@@ -1,0 +1,13 @@
+{
+  "extraKnownMarketplaces": {
+    "deez-skills": {
+      "source": {
+        "source": "github",
+        "repo": "drousseau99/DeezSkills"
+      }
+    }
+  },
+  "enabledPlugins": {
+    "weather-forecast@deez-skills": true
+  }
+}
