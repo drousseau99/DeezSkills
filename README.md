@@ -19,11 +19,9 @@ or *"any weather alerts near me?"* and Claude will use the skill automatically.
 In Claude Code, add this marketplace and install the plugin:
 
 ```
-/plugin marketplace add <your-github-username>/DeezSkills
+/plugin marketplace add drousseau99/DeezSkills
 /plugin install weather-forecast@deez-skills
 ```
-
-> Replace `<your-github-username>` with your GitHub account once this repo is pushed.
 
 To update later, after you push new commits:
 
